@@ -1,0 +1,1 @@
+sap.ui.define(["Workshop/zfleet_workshop/test/unit/controller/View1.controller"],function(){"use strict"});

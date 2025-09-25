@@ -1,0 +1,1 @@
+sap.ui.define(["Workshop/zfleet_workshop/controller/View1.controller"],function(o){"use strict";QUnit.module("View1 Controller");QUnit.test("I should test the View1 controller",function(e){var t=new o;t.onInit();e.ok(t)})});
