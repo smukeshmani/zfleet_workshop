@@ -1,1 +1,0 @@
-QUnit.config.autostart=false;sap.ui.getCore().attachInit(function(){"use strict";sap.ui.require(["Workshop/zfleet_workshop/test/integration/AllJourneys"],function(){QUnit.start()})});
